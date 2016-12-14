@@ -1,2 +1,2 @@
 # London-House-Prices-
-Exploratory analysis of London house price data from the Land Registry 
+Exploratory analysis of London house price data in Tableau from the Land Registry 
